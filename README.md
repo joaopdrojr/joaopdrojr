@@ -1,12 +1,12 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey there 👋🏿</h1></summary>
+    <summary><h1 style="display: inline-block">Hey there, I'm JP 👋🏿</h1></summary>
 </div>
 
 <!-- Apresentação -->
 <p>
-👨🏿‍🦲 I'm João Pedro! A Brazilian iOS Developer and Product Manager passionate about technology, design, and education.
+👨🏿‍🦲 A Brazilian iOS Developer and Product Manager passionate about technology, design, and education.
 
 📱 I’ve developed five iOS apps — three are published on the App Store, with over 800 downloads combined.
 
@@ -44,11 +44,10 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=joaopdrojr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopdrojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=joaopdrojr&theme=github_dark_dimmed&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrojr&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160px" />
+</div>
 
 
 <!-- Portfólio -->
