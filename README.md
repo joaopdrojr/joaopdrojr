@@ -55,7 +55,7 @@
 - [SlangSpeak](https://apps.apple.com) – teaches Rio slang to foreigners using gamified features.
 - [PinSpot](https://apps.apple.com) – saves TikTok/Instagram locations with MapKit and interactive UI.
 - [AR Strike](https://apps.apple.com) – AR multiplayer FPS with design system and real-time interface.
-
+- [Fimbo Village](https://joaopdrojr.framer.website/projects/fimbo-village) - Fimbo Village was recognized as one of the top 50 standout projects globally in the Apple Swift Student Challenge 2025.
 <!-- GIF -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTcydjFoajdsYTdlemJ4Z3hleTg0cGFybTAwZWlrM2ZybmVuMmlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwLEp54PVQNbbAQzrB/giphy.gif" alt="16-bit black character spinning" width="800"/>
