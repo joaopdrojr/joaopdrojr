@@ -6,13 +6,11 @@
 
 <!-- Apresentação -->
 <p>
-👨🏿‍🦲 A Brazilian iOS Developer and Product Manager passionate about technology, design, and education.
+📱 iOS Developer & Product Builder with 5 shipped apps and 1.8K+ organic downloads.
 
-📱 I’ve developed five iOS apps — three are published on the App Store, with over 800 downloads combined.
+🏆 WWDC 2025 Swift Student Challenge Distinguished Winner (Top 50 worldwide).
 
-🍎 I’m currently an intern at the Apple Developer Academy | PUC-Rio and was selected as a Distinguished Winner at Apple’s WWDC Swift Student Challenge 2025.
-
-🌱 I’m studying Business Administration while deepening my knowledge in software development and product strategy.
+🚀 I build and scale products end-to-end — from idea to App Store, focusing on growth, monetization, and user experience.
 </p>
 
 <!-- Dropdown - Mais sobre mim -->
@@ -43,23 +41,12 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=joaopdrojr&theme=github_dark_dimmed&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdrojr&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160px" />
-</div>
-
-
 <!-- Portfólio -->
 ## 📁 Portfolio:
 - [SlangSpeak](https://apps.apple.com) – teaches Rio slang to foreigners using gamified features.
 - [PinSpot](https://apps.apple.com) – saves TikTok/Instagram locations with MapKit and interactive UI.
 - [AR Strike](https://apps.apple.com) – AR multiplayer FPS with design system and real-time interface.
-- [Fimbo Village](https://joaopdrojr.framer.website/projects/fimbo-village) - Fimbo Village was recognized as one of the top 50 standout projects globally in the Apple Swift Student Challenge 2025.
-<!-- GIF -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTcydjFoajdsYTdlemJ4Z3hleTg0cGFybTAwZWlrM2ZybmVuMmlqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwLEp54PVQNbbAQzrB/giphy.gif" alt="16-bit black character spinning" width="800"/>
-</p>
+- [Fimbo Village](https://www.youtube.com/watch?v=b-l3RBeFTzg) - Fimbo Village was recognized as one of the top 50 standout projects globally in the Apple Swift Student Challenge 2025.
 
 ## 🔥 Skills
 
